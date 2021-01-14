@@ -11,5 +11,6 @@
 - The page was built with HTML, CSS, JavaScript, and jQuery.
 
 ### Deployed Link
+https://bennettcollier.github.io/workday-scheduler/index.html
 
 <img width="1193" alt="Screen Shot 2021-01-13 at 11 34 31 PM" src="https://user-images.githubusercontent.com/71052027/104558629-f758b100-55f7-11eb-9fc4-9cbcbe8f7b26.png">
